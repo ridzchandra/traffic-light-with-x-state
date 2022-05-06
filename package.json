@@ -1,5 +1,5 @@
 {
-  "name": "xstate-getting-started",
+  "name": "traffic-light-with-x-state",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
